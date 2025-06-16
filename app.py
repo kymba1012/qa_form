@@ -5,8 +5,8 @@ from io import BytesIO
 import zipfile
 
 # Page setup
-st.set_page_config(page_title="Cable Schedule Generator", layout="centered")
-st.title("📄 QA Word Generator")
+st.set_page_config(page_title="Cable Form Generator", layout="centered")
+st.title("📄 Cable Form Generator")
 st.write("Upload your Excel schedule and Word template to generate custom documents.")
 
 # Upload files
